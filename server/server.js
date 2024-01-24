@@ -27,7 +27,7 @@ require("./routes/messages.routes")(app);
 require("./routes/user.routes")(app);
 require("./routes/post.routes")(app);
 require("./routes/comment.routes")(app);
-const OPENAI_API_KEY = "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"; 
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY; 
 
 app.post("/api/chat/gpt", async (req, res) => {
   const option = {
