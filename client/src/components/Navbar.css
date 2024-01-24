@@ -1,0 +1,53 @@
+.log-btn{
+    color: #cff500;
+    background-color: #2B2B2B;
+    border: 1px #cff500 solid;
+    box-shadow: 4px 4px black;
+}
+
+.log-btn:hover{
+    color: black;
+    background-color: #cff500;
+    border: 1px black solid;
+    box-shadow: 4px 4px black;
+}
+
+.reg-btn{
+    color: black;
+    background-color: #cff500;
+    border: 1px black solid;
+    box-shadow: 4px 4px black;
+}
+
+.reg-btn:hover{
+    color: #cff500;
+    background-color: #2B2B2B;
+    border: 1px #cff500 solid;
+    box-shadow: 4px 4px black;
+}
+.nav-icon{
+    font-size: 2rem;
+    color: #a66cfe;
+}
+.nav-icon:hover{
+    font-size: 2rem;
+    color: white;
+}
+
+.nav-icon2{
+    font-size: 2rem;
+    color: #a66cfe;
+}
+.nav-icon2:hover{
+    font-size: 2rem;
+    color: #2B2B2B;
+}
+
+.msg-icon{
+    color: #cff500;
+    font-size: 2rem;
+}
+.msg-icon:hover{
+    color: #473c61;
+    font-size: 2rem;
+}

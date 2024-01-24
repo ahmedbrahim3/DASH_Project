@@ -1,0 +1,81 @@
+body{
+    background: url('/stacked-waves-haikei (2).svg');
+    background-size: cover;
+}
+
+.cardbg{
+    background-color: #ebe9ea;
+    border: #ebe9ea;
+    box-shadow: 4px 4px black;
+}
+.cardbgNS{
+    background-color: #ebe9ea;
+    border: #ebe9ea;
+}
+.codebg{
+    background-color: #2B2B2B;
+    border: #2B2B2B;
+    box-shadow: 2px 2px #cff500;
+}
+.createbg{
+    color: #ebe9ea;
+    background-color: #2B2B2B;
+    border: #2B2B2B;
+    box-shadow: 4px 4px black;
+}
+
+.createbtn{
+    color:#a66cfe;
+    font-size: 3rem;
+    
+}
+
+.imageProfile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px;
+  
+    object-fit: cover;
+    object-position: center right;
+  }
+
+.fun-text{
+    margin-top: 20px;
+    text-shadow: 2px 2px black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;
+    box-shadow: 2px 2px black;
+  }
+
+.onlineName{
+    font-size: 1rem;
+    text-align: left;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.logged-in {
+    color: green;
+  }
+  
+  .logged-out {
+    color: red;
+  }
+
+  .imageComment{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;
+    box-shadow: 2px 2px black;
+    margin-right: 5px;
+  }
